@@ -1,4 +1,4 @@
-# Explore-Python-Fundamentals-Part-1: Manning-LiveProject
+# Explore Python Fundamentals-Part 1: Manning-LiveProject
 
 The series of projects work out Python skills and form sound mental models of fundamental aspects of Python.
 
