@@ -7,9 +7,11 @@ The series of projects work out Python skills and form sound mental models of fu
 - Explore the characteristics of Python variables by examining what happens when re-assigning a value or changing an element/s in lists or arrays.
 
 [1.2. Test Hypotheses - Are Variables Containers or Labels](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/1.2%20Test%20Hypotheses%20-%20Are%20Variables%20Containers%20or%20Labels.ipynb)
-- For understanding the nature of Python variables and aiding into debugging and cleaning codes, Python's built-in function id() returns an object’s integer identifier.
+- Python's built-in function id() returns an object’s integer identifier; it helps in understanding the nature of Python variables and debugging codes,
 
 ## Project 2: Objects & Methods
+[2.1 Creating class using the 'type()' function](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/2.1%20Creating%20a%20Class%20using%20the%20'type(%20)'%20function.ipynb)
+
 ## Project 3: Class Methods & Variable
 ## Project 4: Inheritance
 ## Project 5: Iteration
