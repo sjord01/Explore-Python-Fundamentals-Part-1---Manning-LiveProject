@@ -11,6 +11,7 @@ The series of projects work out Python skills and form sound mental models of fu
 
 ## Project 2: Objects & Methods
 [2.1 Creating class using the 'type()' function](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/2.1%20Creating%20a%20Class%20using%20the%20'type(%20)'%20function.ipynb)
+- Aside from Python's conventional way of constructing class objects, the 'type()' function offers an alternative of creating dynamic classes.
 
 ## Project 3: Class Methods & Variable
 ## Project 4: Inheritance
