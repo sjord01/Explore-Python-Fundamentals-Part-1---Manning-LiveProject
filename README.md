@@ -18,7 +18,7 @@ The series of projects work out Python skills and form sound mental models of fu
 
 ## Project 3: Class Methods & Variable
 
-[3.1 Workflow: Class Data](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/3.1%20Workflow%20-%20Class%20Data.ipynb)
+[3.1 Workflow: Class Data](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/3.1%20Workflow%20-%20Class%20Data-Copy1.ipynb)
 - Explore about classes, attributes, and methods in Python, and how they can be used to define and manipulate objects in an OOP context.
 - Leverage the benefit of using a mutable object (a list) as an attribute, instead of a scalar value, to  keep track of data across multiple instances of a class.
 ## Project 4: Inheritance
