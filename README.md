@@ -17,5 +17,9 @@ The series of projects work out Python skills and form sound mental models of fu
 - In object-oriented programming, a class is a custom-designed plan or model that serves as a basis for generating objects. Classes allow for the combination of data and functionality into a single entity. When a new class is established, it produces a new kind of object, enabling the creation of new instances of that type. Each instance of a class can possess properties that are associated with it to keep track of its condition. Furthermore, class instances can possess methods (specified by their class) for altering their state.
 
 ## Project 3: Class Methods & Variable
+
+[3.1 Workflow: Class Data](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/3.1%20Workflow%20-%20Class%20Data.ipynb)
+- Explore about classes, attributes, and methods in Python, and how they can be used to define and manipulate objects in an OOP context.
+- Leverage the benefit of using a mutable object (a list) as an attribute, instead of a scalar value, to  keep track of data across multiple instances of a class.
 ## Project 4: Inheritance
 ## Project 5: Iteration
