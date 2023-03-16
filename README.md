@@ -36,3 +36,7 @@ The series of projects work out Python skills and form sound mental models of fu
 
 
 ## Project 5: Iteration
+
+[5.1 Iteration Protocol and Creating an Iterable](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/5.1%20Iteration%20Protocol%20and%20Creating%20an%20Iterable.ipynb)
+
+5.2 Creating an Iterator and Using a Generator Function
