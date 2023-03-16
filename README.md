@@ -13,22 +13,26 @@ The series of projects work out Python skills and form sound mental models of fu
 [2.1 Creating class using the 'type()' function](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/2.1%20Creating%20a%20Class%20using%20the%20'type(%20)'%20function.ipynb)
 - Aside from Python's conventional way of constructing class objects, the 'type()' function offers an alternative of creating dynamic classes.
 
-[2.2 Workflow: Exploring Objects and Instance Methods](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/2.2%20Workflow%20-%20Exploring%20Objects%20and%20Instance%20Methods.ipynb)
+[2.2 Exploring Objects and Instance Methods](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/2.2%20Workflow%20-%20Exploring%20Objects%20and%20Instance%20Methods.ipynb)
 - In object-oriented programming, a class is a custom-designed plan or model that serves as a basis for generating objects. Classes allow for the combination of data and functionality into a single entity. When a new class is established, it produces a new kind of object, enabling the creation of new instances of that type. Each instance of a class can possess properties that are associated with it to keep track of its condition. Furthermore, class instances can possess methods (specified by their class) for altering their state.
 
 ## Project 3: Class Methods & Variable
 
-[3.1 Workflow: Class Data](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/3.1%20Workflow%20-%20Class%20Data-Copy1.ipynb)
+[3.1 Class Data](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/3.1%20Workflow%20-%20Class%20Data-Copy1.ipynb)
 - Explore about classes, attributes, and methods in Python, and how they can be used to define and manipulate objects in an OOP context.
 - Leverage the benefit of using a mutable object (a list) as an attribute, instead of a scalar value, to  keep track of data across multiple instances of a class.
 
-[3.2 Workflow: Class Method](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/3.2%20Workflow%20-%20Class%20Methods.ipynb)
+[3.2 Class Method](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/3.2%20Workflow%20-%20Class%20Methods.ipynb)
 - Scripting a Python code of classes should take into considerations what the program is about and its main purpose, its readability and maintainability, the possibility of it being scaled up in the future; these principle set the way of your class data will be accessed.
 - If you need to access class-level data from within an instance, the __class__ property or @classmethod decorator might be the best choice. If you only need to access class-level data from outside the class, using the class itself might be the simplest and most efficient approach.
 
 ## Project 4: Inheritance
 
-[4.1 Workflow: Class Inheritance](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/4.1%20Workflow%20-%20Inheriting%20from%20Another%20Class.ipynb)
+[4.1 Inheriting from Another Class](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/4.1%20Workflow%20-%20Inheriting%20from%20Another%20Class.ipynb)
 - Implementing proper inheritance in Python through creating a more organized and maintainable codebase by avoiding code duplication and reusing code from parent classes in our subclasses.
+
+[4.2 Inheriting from More than One Class at Once - Mixins](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/4.2%20Workflow%20-%20Inheriting%20from%20More%20than%20One%20Class%20Once%20-%20Mixins.ipynb)
+- The code and examples demonstrate how mixins can be used to create reusable functionality that can be easily combined with other classes to create new classes with different behaviors. By separating the functionality into mixins, we can avoid repeating code and simplify the class hierarchy.
+
 
 ## Project 5: Iteration
