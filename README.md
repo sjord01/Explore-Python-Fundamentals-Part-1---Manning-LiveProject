@@ -21,5 +21,14 @@ The series of projects work out Python skills and form sound mental models of fu
 [3.1 Workflow: Class Data](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/3.1%20Workflow%20-%20Class%20Data-Copy1.ipynb)
 - Explore about classes, attributes, and methods in Python, and how they can be used to define and manipulate objects in an OOP context.
 - Leverage the benefit of using a mutable object (a list) as an attribute, instead of a scalar value, to  keep track of data across multiple instances of a class.
+
+[3.2 Workflow: Class Method](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/3.2%20Workflow%20-%20Class%20Methods.ipynb)
+- Scripting a Python code of classes should take into considerations what the program is about and its main purpose, its readability and maintainability, the possibility of it being scaled up in the future; these principle set the way of your class data will be accessed.
+- If you need to access class-level data from within an instance, the __class__ property or @classmethod decorator might be the best choice. If you only need to access class-level data from outside the class, using the class itself might be the simplest and most efficient approach.
+
 ## Project 4: Inheritance
+
+[4.1 Workflow: Class Inheritance](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/4.1%20Workflow%20-%20Inheriting%20from%20Another%20Class.ipynb)
+- Implementing proper inheritance in Python through creating a more organized and maintainable codebase by avoiding code duplication and reusing code from parent classes in our subclasses.
+
 ## Project 5: Iteration
