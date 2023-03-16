@@ -39,6 +39,10 @@ The series of projects work out Python skills and form sound mental models of fu
 
 [5.1 Iteration Protocol and Creating an Iterable](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/5.1%20Iteration%20Protocol%20and%20Creating%20an%20Iterable.ipynb)
 
+- Custom iterables and iterators can be created in Python by implementing the appropriate methods and protocols.
+Overall, iteration is a powerful and flexible concept in Python, and it's used extensively throughout the language and its standard library. With a good understanding of how iteration works in Python, you can easily create and work with a wide variety of iterable sequences and iterators.
+
+
 5.2 Creating an Iterator and Using a Generator Function
 - When working with iterators and generators, it's important to be aware of the differences between the two approaches, and to choose the one that best fits your needs. If you need fine-grained control over the iteration process, or if you need to implement complex stateful behavior, then iterators may be the better choice. If you need a simple way to produce a sequence of values, or if you need to produce a very large sequence that won't fit in memory, then generators may be the better choice.
 
