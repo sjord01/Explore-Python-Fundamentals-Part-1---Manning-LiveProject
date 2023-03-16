@@ -40,3 +40,6 @@ The series of projects work out Python skills and form sound mental models of fu
 [5.1 Iteration Protocol and Creating an Iterable](https://github.com/sjord01/Explore-Python-Fundamentals-Part-1-Manning-LiveProject/blob/main/5.1%20Iteration%20Protocol%20and%20Creating%20an%20Iterable.ipynb)
 
 5.2 Creating an Iterator and Using a Generator Function
+- When working with iterators and generators, it's important to be aware of the differences between the two approaches, and to choose the one that best fits your needs. If you need fine-grained control over the iteration process, or if you need to implement complex stateful behavior, then iterators may be the better choice. If you need a simple way to produce a sequence of values, or if you need to produce a very large sequence that won't fit in memory, then generators may be the better choice.
+
+- Iterators and generators work in conjunction with for loops and can be used to create custom iterator and generator classes and functions. Overall, iterators and generators are powerful tools for working with sequences of values in Python, and can be used in a wide variety of applications.
